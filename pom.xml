@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-releases</name>
-	      <url>http://3.20.205.204:8081/repository/maven-releases/</url>
+	      <name>suresh-releases</name>
+	      <url>http://3.20.205.204:8081/repository/suresh-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-snapshots</name>
-	      <url>http://3.20.205.204:8081/repository/maven-snapshots/</url>
+	      <name>suresh-snapshot</name>
+	      <url>http://3.20.205.204:8081/repository/suresh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
