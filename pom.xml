@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.20.205.204:9000/</sonar.host.url>
+		<sonar.host.url>http://3.129.57.169:9000/</sonar.host.url>
 		<!--<sonar.login>68a2a121435ecf5f0e65bd392845175651959746</sonar.login>  -->
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> 
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>suresh-releases</name>
-	      <url>http://3.20.205.204:8081/repository/suresh-releases/</url>
+	      <url>http://3.129.57.169:8081/repository/suresh-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>suresh-snapshot</name>
-	      <url>http://3.20.205.204:8081/repository/suresh-snapshot/</url>
+	      <url>http://3.129.57.169:8081/repository/suresh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
